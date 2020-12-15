@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp178">178.00dp</dimen>
+    <dimen name="dp37">37.00dp</dimen>
+    <dimen name="dp7">7.00dp</dimen>
+    <dimen name="dp20">20.00dp</dimen>
+    <dimen name="dp50">50.00dp</dimen>
+    <dimen name="dp3">3dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp300">300dp</dimen>
+    <dimen name="dp350">350dp</dimen>
+    <dimen name="sp20">20sp</dimen>
+    <dimen name="dp70">70dp</dimen>
+
+
+
+</resources>
